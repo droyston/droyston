@@ -2,7 +2,7 @@
 
 I'm a research scientist, data engineer, and neurotechnology advocate. 
 
-Currently I work as a data engineer at Manifold, designing and deploying high-performance data platforms.
+My most recent position was as a data engineer at Manifold, designing and deploying high-performance data platforms.
 
 Previously I worked as a postdoctoral researcher in the Pediatric Brain Electrophysiology Lab with Dr. Taylor Abel (UPMC), using high-density intracranial EEG and machine learning to study human auditory processing.
 
