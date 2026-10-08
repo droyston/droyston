@@ -2,7 +2,7 @@
 
 I'm a research scientist, data engineer, and neurotechnology advocate. 
 
-My current recent position is Senior Data Engineer at Synchron, designing and deploying high-performance data platforms for implantable brain-computer interface (BCI) research and product systems.
+My most recent position was Senior Data Engineer at Synchron, lead cloud/data infrastructure engineer; designing and deploying high-performance data platforms for implantable brain-computer interface (BCI) research and product systems.
 
 You can find more at [www.dylanroyston.com](https://www.dylanroyston.com)
 
